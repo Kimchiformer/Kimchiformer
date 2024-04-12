@@ -1,0 +1,12 @@
+# Transformer
+transformers
+
+# dataset
+datasets
+
+# ROUGE evaluation
+evaluate
+rouge_score
+
+# parallel training
+accelerate
